@@ -105,3 +105,17 @@ section h2{
 #entretenimento{
     background-color: rgba(214, 45, 45, 0.297);
 }
+
+#entretenimento .articles article a{
+    background-color:red;
+    color: white;
+}
+
+#tecnologia{
+    background-color: rgba(255, 255, 0, 0.164);
+}
+
+#tecnologia .articles article a{
+    background-color: yellow;
+    color: white;
+}
